@@ -1,4 +1,13 @@
 
+## Fork Purpose and Intention
+
+This repository is a fork of utkusen's promptmap Found here: "https://github.com/utkusen/promptmap"
+The purpose of this fork is to expand the catalogue of Prompt Injections, as well as implement a feedback system for implementable countermeasures.
+
+The intent of this fork is to provide an independent development environment for the project.
+
+The development achieved in this Fork is the ongoing result of a Bachelors Thesis.
+
 ```
                               _________       __O     __O o_.-._ 
   Humans, Do Not Resist!  \|/   ,-'-.____()  / /\_,  / /\_|_.-._|
